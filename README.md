@@ -1,4 +1,4 @@
-![QuantumChemistry-Lab cover](assets/cover.png)
+![QuantumChemistry-Lab cover](QuantumChemistry-Lab%20cover.png)
 
 # QuantumChemistry-Lab ⚛️🧪
 
